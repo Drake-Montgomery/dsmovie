@@ -1,6 +1,8 @@
 header {
-    background-color: var(--color-blue);
-    color: var(--white);
+    /* background-color: var(--color-blue); */
+    background-color: #4070F4;
+    color: #fff;
+    /* color: var(--white); */
     height:60px;
     display: flex;
     align-items: center;

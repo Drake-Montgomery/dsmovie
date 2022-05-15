@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:wght@400;700&display=swap');
 
-:root {
+/* :root {
   --color-blue: #4070F4;
   --color-primary: #4D41C0;
   --bg-gray: #ddd
-}
+} */
 
 * {
   box-sizing: border-box;
@@ -12,7 +12,7 @@
 }
 
 html, body {
-  background: var(--bg-gray)
+  background: #ddd
 }
 
 a, a:hover {
