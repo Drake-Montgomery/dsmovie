@@ -14,7 +14,7 @@ public class ScoreDTO {
 		return movieId;
 	}
 
-	public void setGameId(Long movieId) {
+	public void setMovieId(Long movieId) {
 		this.movieId = movieId;
 	}
 
@@ -33,6 +33,5 @@ public class ScoreDTO {
 	public void setScore(Double score) {
 		this.score = score;
 	}
-	
 	
 }
