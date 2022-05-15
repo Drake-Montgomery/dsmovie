@@ -1,0 +1,58 @@
+.drakegames-form-container {
+    margin: 40px auto;
+    max-width: 480px;
+    padding: 20px;
+}
+
+.drakegames-games-card-image {
+    border-radius: 8px 8px 0 0;
+    width: 100%;
+}
+
+.drakegames-card-bottom-container {
+    align-items: center;
+    background-color: #fff;
+    border-radius: 0 0 8px 8px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px 10px 20px;
+}
+
+.drakegames-form {
+    width: calc(100% - 20px);
+}
+
+.drakegames-form-group {
+    margin-bottom: 20px;
+}
+
+.drakegames-form-group label {
+    font-size: 12px;
+    color: #aaa;
+} 
+
+.drakegames-form-btn-container {
+    display: flex;
+    justify-content: center;
+}
+
+.drakegames-card-bottom-container h3 {
+    color: #4A4A4A;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 700;
+    margin-bottom: 10px;
+    min-height: 40px;
+}
+
+.drakegames-btn {
+    background-color: #4D41C0;
+    font-size: 14px;
+    font-weight: 700;
+    height: 40px;
+    width: 180px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
