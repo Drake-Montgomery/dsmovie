@@ -6,7 +6,7 @@ function Navbar() {
     <header>
       <nav className="container">
         <div className="dsmovie-nav-content">
-          <h1>Drake Games</h1>
+          <h1>DSMovie</h1>
           <a href="https://github.com/Drake-Montgomery/Drake-Games">
             <div className="dsmovie-contact-container">
               <Githubicon />
