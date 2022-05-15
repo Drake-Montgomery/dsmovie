@@ -10,7 +10,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Listing />} />
         <Route path="/Form">
-          <Route path=":ganmeId" element={<Form />} />
+          <Route path=":movieId" element={<Form />} />
         </Route>
       </Routes>
     </BrowserRouter>
